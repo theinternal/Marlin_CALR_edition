@@ -46,7 +46,7 @@
 /**
  * Defines a generic printer name to be output to the LCD after booting Marlin.
  */
-//#define MACHINE_NAME "3D Printer"
+#define MACHINE_NAME "Taront3rD"
 
 /**
  * The SOURCE_CODE_URL is the location where users will find the Marlin Source
@@ -59,13 +59,13 @@
 /**
  * Default generic printer UUID.
  */
-//#define DEFAULT_MACHINE_UUID "cede2a2f-41a2-4748-9b12-c55c62f367ff"
+//#define DEFAULT_MACHINE_UUID "00000000-0000-0000-0000-000000000000"
 
 /**
  * The WEBSITE_URL is the location where users can get more information such as
  * documentation about a specific Marlin release.
  */
-//#define WEBSITE_URL "https://marlinfw.org"
+#define WEBSITE_URL "coqaulores.de"
 
 /**
  * Set the vendor info the serial USB interface, if changable
