@@ -2,7 +2,7 @@
  * Made with Marlin Bitmap Converter
  * https://marlinfw.org/tools/u8glib/converter.html
  *
- * This bitmap from the file 'T3D.png'
+ * This bitmap from the file 'Marlin_Statusscreen_T3D.png'
  */
 #pragma once
 
