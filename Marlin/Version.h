@@ -59,7 +59,7 @@
 /**
  * Default generic printer UUID.
  */
-#define DEFAULT_MACHINE_UUID "f9741225-625b-432b-a773-3bdbf3a919bc"
+//#define DEFAULT_MACHINE_UUID "00000000-0000-0000-0000-000000000000"
 
 /**
  * The WEBSITE_URL is the location where users can get more information such as
